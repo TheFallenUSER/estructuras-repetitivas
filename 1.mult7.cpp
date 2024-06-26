@@ -3,6 +3,7 @@ using namespace std;
 
 int main(){
 	int n,mul;
+	cout<<"Bienvenido al programa"<<endl;
 	do{
 		cout<<"Ingresa la cantidad de multiplos de 7:"<<endl;
 		cin>>n;
